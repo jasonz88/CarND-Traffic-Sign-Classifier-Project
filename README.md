@@ -1,5 +1,8 @@
 
-**Build a Traffic Sign Recognition Project**
+# **Build a Traffic Sign Recognition Project**
+
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
 
 The goals / steps of this project are the following:
 * Load the data set (see below for links to the project data set)
